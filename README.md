@@ -23,7 +23,7 @@ During the development of this portfolio, I:
 
 ## 🌐 Live Demo
 
-Check out the live version of my portfolio [here](https://personal-portfolio-qqblxd8nc-krishnasaichariths-projects.vercel.app/).
+Check out the live version of my portfolio [here](https://krishna-sai-charith-portfolio.vercel.app/).
 
 ## 📸 Screenshots
 
