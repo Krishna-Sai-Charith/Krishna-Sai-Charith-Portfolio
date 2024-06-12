@@ -8,7 +8,6 @@ const TickerTape = () => {
       <img style={{height:"50px", width:"50px"}} src="./CSS3.svg" alt="" />
       <img style={{height:"50px", width:"50px"}} src="./Bootstrap.svg" alt="" />
       <img style={{height:"50px", width:"50px"}} src="./Tailwind CSS.svg" alt="" />
-      <img style={{height:"50px", width:"50px"}} src="./Javascript.svg" alt="" />
       <img style={{height:"50px", width:"50px"}} src="./Kotlin.svg" alt="" />
       <img style={{height:"50px", width:"50px"}} src="./MongoDB.svg" alt="" />
       <img style={{height:"50px", width:"50px"}} src="./MySQL.svg" alt="" />
